@@ -1,0 +1,10 @@
+{
+  "name": "simple-site",
+  "version": "1.0.0",
+  "description": "Simple site",
+  "dependencies": {
+
+  },
+  "author": "soonthorn",
+  "license": "MIT"
+}
