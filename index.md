@@ -1,4 +1,6 @@
-% Document Title
+---
+title: Document Title
+---
 
 # Test 1
 ## Test 2
