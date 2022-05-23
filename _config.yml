@@ -1,6 +1,2 @@
 
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+permalink: /posts/:title/
