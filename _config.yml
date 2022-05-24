@@ -4,6 +4,7 @@ author: GitHub User
 
 baseurl: "/"
 
+permalink: /posts/:title/
 
 
 
