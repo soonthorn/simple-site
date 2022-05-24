@@ -12,6 +12,9 @@ setting:
       twitter: test
       github:  test
       rss: rss
+  navigation:
+    - title: Home
+      url: "/"
 
 baseurl: "/"
 
