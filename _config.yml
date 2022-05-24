@@ -8,6 +8,10 @@ setting:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
+  social_links:
+      twitter: test
+      github:  test
+      rss: rss
 
 baseurl: "/"
 
