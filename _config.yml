@@ -2,6 +2,13 @@
 title: Simple Theme
 author: GitHub User
 
+setting:
+  title: My Site
+  tagline: It all about my site.
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: true
+
 baseurl: "/"
 
 permalink: /posts/:title/
