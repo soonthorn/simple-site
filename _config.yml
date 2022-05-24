@@ -7,7 +7,7 @@ setting:
   tagline: It all about my site.
   date_format: "%b %-d, %Y"
   style: black
-  showNav: true
+  showNav: false
   social_links:
       twitter: test
       github:  test
